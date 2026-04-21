@@ -8,7 +8,7 @@
   D : Turn Right
   M : Toggle Map Mode
   Z : Reset Camera (if a bit glitchy in map mode, click it a few times)
-  Tab : Set Simulation Speed(Warp)
+  Tab : Set Simulation Speed (Warp)
   R : Reset Spaceship
   ```
 
